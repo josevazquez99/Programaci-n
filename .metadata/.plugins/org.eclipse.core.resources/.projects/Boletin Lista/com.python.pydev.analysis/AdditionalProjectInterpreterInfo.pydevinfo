@@ -1,0 +1,21 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Boletin Lista/com.python.pydev.analysis/v2_indexcache
+Ejercicios|1636707731008211621|/home/estudiante/eclipse-workspace/Boletin Lista/Ejercicios.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=/home/estudiante/eclipse-workspace/Boletin Lista/Ejercicios.py
+2=Ejercicios
+-- END DICTIONARY
+-- START TREE 1
+5
+cha|1|charactersInString!1^12#5*18@
+low|1|lowCaseInString!1^27#5*18@
+may|1|mayuscula!1^49#5*18@
+min|1|minusculas!1^5#5*18@
+upp|1|upperCaseInString!1^37#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

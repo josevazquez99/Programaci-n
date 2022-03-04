@@ -1,0 +1,53 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Boletin2/com.python.pydev.analysis/v2_indexcache
+ejercicio3|1634889978888003772|/home/estudiante/eclipse-workspace/Boletin2/ejercicio3.py
+ejercicio4|1634889978860003772|/home/estudiante/eclipse-workspace/Boletin2/ejercicio4.py
+ejercicio1|1634889978892003772|/home/estudiante/eclipse-workspace/Boletin2/ejercicio1.py
+ejercicio10|1635155602060264119|/home/estudiante/eclipse-workspace/Boletin2/ejercicio10.py
+ejercicio2|1634889978868003772|/home/estudiante/eclipse-workspace/Boletin2/ejercicio2.py
+ejercicio7|1634889978884003772|/home/estudiante/eclipse-workspace/Boletin2/ejercicio7.py
+ejercicioprueba|1635158156008259795|/home/estudiante/eclipse-workspace/Boletin2/ejercicioprueba.py
+ejercicio8|1635160444696255920|/home/estudiante/eclipse-workspace/Boletin2/ejercicio8.py
+ejercicio5|1634889978848003772|/home/estudiante/eclipse-workspace/Boletin2/ejercicio5.py
+ejercicio6|1634889978900003772|/home/estudiante/eclipse-workspace/Boletin2/ejercicio6.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+4=ejercicioprueba
+7=/home/estudiante/eclipse-workspace/Boletin2/ejercicio5.py
+9=/home/estudiante/eclipse-workspace/Boletin2/ejercicio8.py
+1=/home/estudiante/eclipse-workspace/Boletin2/ejercicio7.py
+5=/home/estudiante/eclipse-workspace/Boletin2/ejercicio6.py
+12=ejercicio3
+15=/home/estudiante/eclipse-workspace/Boletin2/ejercicio1.py
+18=ejercicio4
+16=ejercicio1
+14=ejercicio10
+20=ejercicio2
+2=ejercicio7
+10=ejercicio8
+11=/home/estudiante/eclipse-workspace/Boletin2/ejercicio3.py
+17=/home/estudiante/eclipse-workspace/Boletin2/ejercicio4.py
+8=ejercicio5
+19=/home/estudiante/eclipse-workspace/Boletin2/ejercicio2.py
+6=ejercicio6
+13=/home/estudiante/eclipse-workspace/Boletin2/ejercicio10.py
+3=/home/estudiante/eclipse-workspace/Boletin2/ejercicioprueba.py
+-- END DICTIONARY
+-- START TREE 1
+10
+acu|2|acumulador!1^19#1*19@acumulador!3^14#1*35@
+can|1|cantidad!1^22#5*19@
+con|6|cont!5^15#1*51@cont!7^14#1*67@contador!9^17#1*83@contador!11^20#1*99@contador!13^2#1*115@contador!1^20#1*19@
+cue|1|cuenta!15^13#1*131@
+fac|1|factorial!13^10#9*115@
+num|10|num!17^14#1*147@num2!5^14#1*51@num!11^19#1*99@num!7^13#1*67@num!9^15#1*83@num!19^17#1*163@num1!5^13#1*51@num!3^13#1*35@num!13^1#1*115@num!1^18#1*19@
+par|1|par!3^15#1*35@
+pre|1|pregunta!9^16#1*83@
+pri|1|print!7^16#5*67@
+sum|2|suma!17^18#1*147@suma!19^21#1*163@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

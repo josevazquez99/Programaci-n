@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ejerciciospruebas/com.python.pydev.analysis/v2_indexcache
+ejercicio3|1635322956412217718|/home/estudiante/eclipse-workspace/ejerciciospruebas/ejercicio3.py
+ejercicios|1638515721205788342|/home/estudiante/eclipse-workspace/ejerciciospruebas/ejercicios.py
+ejercicio1|1635235534203988274|/home/estudiante/eclipse-workspace/ejerciciospruebas/ejercicio1.py
+ejercicio7|1637310490023766189|/home/estudiante/eclipse-workspace/ejerciciospruebas/ejercicio7.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+2=ejercicio3
+4=ejercicios
+8=ejercicio1
+6=ejercicio7
+3=/home/estudiante/eclipse-workspace/ejerciciospruebas/ejercicios.py
+7=/home/estudiante/eclipse-workspace/ejerciciospruebas/ejercicio1.py
+1=/home/estudiante/eclipse-workspace/ejerciciospruebas/ejercicio3.py
+5=/home/estudiante/eclipse-workspace/ejerciciospruebas/ejercicio7.py
+-- END DICTIONARY
+-- START TREE 1
+17
+acu|2|acumulador!1^3#1*19@acumulador!3^79#1*35@
+bus|3|buscarletra!5^125#5*50@buscaryreemplazar!5^148#5*50@buscaryquitarletra!5^113#5*50@
+cha|1|charactersInString!5^12#5*50@
+con|3|consonantesyvocales!5^166#5*50@contador!1^2#1*19@contador!7^2#1*67@
+dar|1|darVuelta2!5^89#5*50@
+din|1|dinerobase!3^78#1*35@
+eda|1|edad!3^77#1*35@
+enc|1|encontrar!5^135#5*50@
+low|1|lowCaseInString!5^27#5*50@
+max|1|maximo!1^4#1*19@
+may|1|mayuscula!5^49#5*50@
+med|1|media!1^14#1*19@
+min|2|minimo!1^5#1*19@minusculas!5^5#5*50@
+num|3|num!1^1#1*19@num!7^1#1*67@numberInString!5^66#5*50@
+pal|2|palindromo!5^96#5*50@palindromo2!5^103#5*50@
+qui|1|quitarespacio!5^82#5*50@
+upp|1|upperCaseInString!5^37#5*50@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

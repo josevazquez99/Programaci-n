@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+    <summary errors="1" failures="0" finished="true" name="Test Run: 20" tests="0" total_time="Finished in: 0.00 secs."/>
+    <test location="/home/estudiante/eclipse-workspace/Ejercicios3/tests/tests.py" status="error" test="tests" time="0">
+        <stdout/>
+        <stderr><![CDATA[Traceback (most recent call last):
+  File "/home/estudiante/.p2/pool/plugins/org.python.pydev.core_9.0.1.202108191530/pysrc/_pydev_runfiles/pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "/home/estudiante/eclipse-workspace/Ejercicios3/tests/tests.py", line 3, in <module>
+    import ejercicios
+  File "/home/estudiante/eclipse-workspace/Ejercicios3/src/ejercicios.py", line 95
+    
+    ^
+IndentationError: expected an indented block
+ERROR: Module: tests could not be imported (file: /home/estudiante/eclipse-workspace/Ejercicios3/tests/tests.py).
+]]></stderr>
+    </test>
+    <launch mode="run">
+        <launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Ejercicios3 tests.py"/>
+]]></launch_memento>
+    </launch>
+</pydev-testsuite>

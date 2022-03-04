@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/examen/com.python.pydev.analysis/v2_indexcache
+VazquezFernandez_JoseAntonio_ejer1|1639125073094958233|/home/estudiante/eclipse-workspace/examen/VazquezFernandez_JoseAntonio_ejer1.py
+VazquezFernandezJoseAntonio1|1639398259163604390|/home/estudiante/eclipse-workspace/examen/VazquezFernandezJoseAntonio1.py
+VazquezFernandez_JoseAntonio_ejer3|1639126652482952657|/home/estudiante/eclipse-workspace/examen/VazquezFernandez_JoseAntonio_ejer3.py
+apellido1Apellido2Nombre2|1639394303399759365|/home/estudiante/eclipse-workspace/examen/apellido1Apellido2Nombre2.py
+apellido1Apellido2Nombre3|1639394300827759466|/home/estudiante/eclipse-workspace/examen/apellido1Apellido2Nombre3.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+6=VazquezFernandez_JoseAntonio_ejer1
+5=/home/estudiante/eclipse-workspace/examen/VazquezFernandez_JoseAntonio_ejer1.py
+9=/home/estudiante/eclipse-workspace/examen/VazquezFernandez_JoseAntonio_ejer3.py
+4=VazquezFernandezJoseAntonio1
+10=VazquezFernandez_JoseAntonio_ejer3
+2=apellido1Apellido2Nombre2
+3=/home/estudiante/eclipse-workspace/examen/VazquezFernandezJoseAntonio1.py
+1=/home/estudiante/eclipse-workspace/examen/apellido1Apellido2Nombre2.py
+7=/home/estudiante/eclipse-workspace/examen/apellido1Apellido2Nombre3.py
+8=apellido1Apellido2Nombre3
+-- END DICTIONARY
+-- START TREE 1
+14
+ann|1|annadirMesas!1^18#5*18@
+com|1|compruebaValoresAscii!3^12#5*34@
+con|3|contraseña!5^26#5*50@contieneFinal!7^58#5*66@contarletras!9^29#5*82@
+cor|3|cortarPalabrasLista!7^39#5*66@cortaPalabra!7^33#5*66@cortapalabras!9^36#5*82@
+cre|1|creaArrayConPalabras!7^25#5*66@
+esp|1|espacio!9^17#5*82@
+for|1|formaCadena!7^45#5*66@
+imp|1|imprimirMesas!1^42#5*18@
+lis|1|listaMesas!1^46#1*19@
+may|1|mayuscula!5^11#5*50@
+min|1|minuscula!5^16#5*50@
+num|4|numeroMesaVacia!1^27#5*18@numero!5^21#5*50@NUM_MESAS!1^13#1*19@numeroMesaHueco!1^34#5*18@
+pre|1|precio!7^65#5*66@
+rec|1|recorta!7^50#5*66@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

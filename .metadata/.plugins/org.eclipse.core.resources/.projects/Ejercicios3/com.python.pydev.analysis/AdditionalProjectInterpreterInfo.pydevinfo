@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/home/estudiante/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Ejercicios3/com.python.pydev.analysis/v2_indexcache
+ejercicios|1636447210200325556|/home/estudiante/eclipse-workspace/Ejercicios3/src/ejercicios.py
+tests|1636447131312322577|/home/estudiante/eclipse-workspace/Ejercicios3/tests/tests.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+2=ejercicios
+1=/home/estudiante/eclipse-workspace/Ejercicios3/src/ejercicios.py
+3=/home/estudiante/eclipse-workspace/Ejercicios3/tests/tests.py
+4=tests
+5=Test
+-- END DICTIONARY
+-- START TREE 1
+9
+day|2|daysInMonth!1^39#5*18@dayOfWeek!1^62#5*18@
+fac|1|factorial!1^12#5*18@
+fri|1|friend!1^157#5*18@
+isp|1|isPrime!1^105#5*18@
+lea|1|leapYear!1^26#5*18@
+myp|1|myPower!1^76#5*18@
+num|2|numberDivisorPrime!1^140#5*18@numberOfNumbers!1^93#5*18@
+sec|1|secondOrder!1^124#5*18@
+tes|1|Test!3^7#7*33@
+-- END TREE
+-- START TREE 2
+1
+tes|1|testData!5&3^9#9*34@
+-- END TREE
